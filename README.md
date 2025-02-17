@@ -1,0 +1,1 @@
+The PFC help file (used in a number of dialogs with the PFC Framework).  This repository contains the source code.  The help file in CHM or PDF format can be downloaded directly from the [Release link](https://github.com/OpenSourcePFCLibraries/PFCDLG-help-file-and-source/releases/tag/1.0).
